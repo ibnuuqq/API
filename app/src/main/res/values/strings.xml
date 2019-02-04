@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestAPI</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="jenis_barang">Jenis Barang</string>
+    <string name="download_data_from_server_nplease_wait">Download Data From Server Please wait…</string>
+    <string name="form_edit_dan_delete">FORM EDIT DAN DELETE</string>
+    <string name="id_form">ID Form</string>
+    <string name="nama_mahasiswa">Nama Mahasiswa</string>
+    <string name="kelas_mahasiswa">Kelas Mahasiswa</string>
+    <string name="jurusan_mahasiswa">Jurusan Mahasiswa</string>
+    <string name="id_sub">Id Sub</string>
+    <string name="nama_category">Nama Category</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>

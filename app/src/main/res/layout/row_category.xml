@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="1dp"
+        app:cardCornerRadius="7dp"
+        android:layout_margin="3dp" >
+
+    <LinearLayout
+        android:background="@color/putih"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="7dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/listID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Id Produk"
+            android:textColor="@color/item"
+            android:textSize="12sp" />
+        <TextView
+            android:id="@+id/nama_category"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/nama_category"
+            android:textColor="@color/item"
+            android:textSize="12sp"/>
+</LinearLayout>
+
+</android.support.v7.widget.CardView>
+</LinearLayout>
